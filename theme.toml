@@ -2,11 +2,10 @@ name = "UI Custom"
 license = "MIT"
 licenselink = "https://github.com/site-0003/ui-custom/blob/main/LICENSE"
 description = "WebSite User Interface"
-homepage = "https://v77.dev"
+homepage = "https://ihub.to"
 tags = ["website", "responsive", "multilingual", "mobile"]
-features = ["posts", "shortcodes", "comments"]
 min_version = "0.82.0"
 
 [author]
-  name = "v77 Development"
-  homepage = "https://v77.dev"
+name = "iHub TO"
+homepage = "https://ihub.to"
