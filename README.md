@@ -1,6 +1,6 @@
 # Hugo UI Custom
 
-Extended **UI Library** theme for Hugo.
+Extended base theme for Hugo **SITE-0003**.
 
 ## Install
 
@@ -17,5 +17,5 @@ git submodule update --recursive --remote --merge
 ## Uninstall
 
 ```
-git submodule deinit -f 'themes/ui-custom'; git rm -r --cached 'themes/ui-custom'; rm -rf '.git/modules/themes/ui-custom'; rm -rf 'themes/ui-custom'
+m='ui-custom'; git submodule deinit -f "themes/${m}"; git rm -r --cached "themes/${m}"; rm -rf ".git/modules/themes/${m}"; rm -rf "themes/${m}"
 ```
