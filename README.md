@@ -5,7 +5,7 @@ Extended base theme for Hugo **SITE-0003**.
 ## Install
 
 ```sh
-git submodule add 'https://github.com/site-0003/ui-custom.git' 'themes/ui-custom'
+git submodule add 'https://github.com/s8956/ui-custom.git' 'themes/ui-custom'
 ```
 
 ## Update
